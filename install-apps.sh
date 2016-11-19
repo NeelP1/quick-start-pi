@@ -16,5 +16,7 @@ sudo apt-get update
 
 #Embedded programming
 
+git clone git://git.drogon.net/wiringPi
+
 git clone git://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code.git
 
