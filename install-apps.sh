@@ -10,13 +10,12 @@ sudo apt-get install chromium-browser
 
 sudo apt-get update
 
-
-#Python
-
-
 #Embedded programming
 
 git clone git://git.drogon.net/wiringPi
 
 git clone git://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code.git
 
+#Python
+
+#sudo python Adafruit/Adafruit_Python_DHT/setup.py install
