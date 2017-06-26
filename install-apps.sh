@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This script is for the original RaspberryPi
+
 #Essentials
 
 sudo apt-get install git
